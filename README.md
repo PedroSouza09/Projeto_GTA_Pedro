@@ -6,12 +6,13 @@
 
 Projeto em desenvolvimento.
 
-[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/NLW9_eSports_Pedro/)
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Projeto_GTA_Pedro/)
 
 ## 🛠 Tecnologias
 
 - HTML
 - CSS
+- Javascript
 - Git e Github
 
 ## Contato
